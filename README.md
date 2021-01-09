@@ -9,7 +9,7 @@ Utilizamos Typescript com React, e implantação no netlify.
 ![homepage](https://github.com/koymattk/dsdeliver-sds2-front-web/blob/main/fotos/homePAGE.PNG)
 
 ### Order Page:
-![Order Page](https://github.com/koymattk/dsdeliver-sds2-front-web/blob/main/fotos/homePAGE.PNG)
+![Order Page](https://github.com/koymattk/dsdeliver-sds2-front-web/blob/main/fotos/Orders.PNG)
 
 ### Order Done:
 ![Order Done](https://github.com/koymattk/dsdeliver-sds2-front-web/blob/main/fotos/pedidoFeito.PNG)
