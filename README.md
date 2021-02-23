@@ -16,4 +16,5 @@ Utilizamos Typescript com React, e implantação no netlify.
 
 
 ## Preview site:
-#### https://sds2gabrielmatias.netlify.app/orders
+#### https://sds2gabrielmatias.netlify.app/
+
